@@ -1,0 +1,58 @@
+[01/May/2024 11:15:01 America/Detroit] [Info] ############################################################
+[01/May/2024 11:15:01 America/Detroit] [Info] # Output Factory initiated (html5)
+[01/May/2024 11:15:01 America/Detroit] [Info] # Building output for: Apple
+[01/May/2024 11:15:01 America/Detroit] [Info] # URL /document/edit/32142
+[01/May/2024 11:15:01 America/Detroit] [Info] # User: Mackenzie Mcclemont
+[01/May/2024 11:15:01 America/Detroit] [Info] # Time: Wed, 01 May 2024 11:15:01 -0400
+[01/May/2024 11:15:01 America/Detroit] [Info] # Server: bamberg
+[01/May/2024 11:15:01 America/Detroit] [Info] ############################################################
+[01/May/2024 11:15:01 America/Detroit] [Info] Group: custom
+[01/May/2024 11:15:01 America/Detroit] [Info] Type: html5
+[01/May/2024 11:15:01 America/Detroit] [Info] Transformation: $user_dir/xsl/custom/layout-678.xsl
+[01/May/2024 11:15:02 America/Detroit] [Info] File found: $user_dir/xsl/custom/layout-678.xsl
+[01/May/2024 11:15:02 America/Detroit] [Info] ############################################################
+[01/May/2024 11:15:02 America/Detroit] [Info] Building output for: html5
+[01/May/2024 11:15:02 America/Detroit] [Info] Using stylesheet: $user_dir/xsl/custom/layout-678.xsl
+[01/May/2024 11:15:02 America/Detroit] [Info] Parameters for this build: []
+[01/May/2024 11:15:02 America/Detroit] [Info] Environment variables for this build: {"lang.profiling":"1","taxonomy.filter.strategy":"self","taxonomies.propagate":"1"}
+[01/May/2024 11:15:02 America/Detroit] [Info] Building output for languages: ["en"]
+[01/May/2024 11:15:02 America/Detroit] [Info] Building multilang: no
+[01/May/2024 11:15:02 America/Detroit] [Info] Building preview: no
+[01/May/2024 11:15:02 America/Detroit] [Info] ############################################################
+[01/May/2024 11:15:02 America/Detroit] [Info] Using build directory: $local_tmp/production-66325c747873c2.92204096/32142-Apple-html5
+[01/May/2024 11:15:03 America/Detroit] [Info] -- Generating source files
+[01/May/2024 11:15:03 America/Detroit] [Info] -- Propagating taxonomies: true
+[01/May/2024 11:15:03 America/Detroit] [Info] -- Source files have been generated
+[01/May/2024 11:15:03 America/Detroit] [Info] -- Publication has no unresolved dependencies.
+[01/May/2024 11:15:03 America/Detroit] [Info] Parsing processing instructions
+[01/May/2024 11:15:03 America/Detroit] [Info] -- Generating source files complete.
+[01/May/2024 11:15:04 America/Detroit] [Info] Localizing: publication-32142.xml
+[01/May/2024 11:15:04 America/Detroit] [Info] Language: en
+[01/May/2024 11:15:04 America/Detroit] [Info] Variable sets found: 0
+[01/May/2024 11:15:05 America/Detroit] [Info] Inserting image links.
+[01/May/2024 11:15:05 America/Detroit] [Info] Found 0 image(s).
+[01/May/2024 11:15:06 America/Detroit] [Info] Profiling parameters: []
+[01/May/2024 11:15:06 America/Detroit] [Info] Profiling customisation: $user_dir/xsl/profile.xsl (not found)
+[01/May/2024 11:15:06 America/Detroit] [Info] Transformation: publication-32142--en.org.xml -> publication-32142--en.xml [profile.xsl]
+[01/May/2024 11:15:06 America/Detroit] [Info] Transformation: publication-32142--en.xml -> publication-32142--en.xml [internal-xref.xsl]
+[01/May/2024 11:15:07 America/Detroit] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
+[01/May/2024 11:15:07 America/Detroit] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
+[01/May/2024 11:15:07 America/Detroit] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
+[01/May/2024 11:15:07 America/Detroit] [Info] Created copy: $user_dir/xsl/custom/layout-678.xsl -> $user_dir/xsl/custom/66325c7b6d8ec.xsl
+[01/May/2024 11:15:07 America/Detroit] [Info] Created symlink: $apppath/lib/docbook/xsl/html5/html5-2.page.xsl -> $user_dir/xsl/custom/66325c7b6d8ec.page.xsl
+[01/May/2024 11:15:07 America/Detroit] [Info] Created symlink: $apppath/lib/docbook/xsl/html5/html5-2.index.xsl -> $user_dir/xsl/custom/66325c7b6d8ec.index.xsl
+[01/May/2024 11:15:07 America/Detroit] [Info] Created symlink: $apppath/lib/docbook/xsl/html5/html5.toc.xsl -> $user_dir/xsl/custom/66325c7b6d8ec.toc.xsl
+[01/May/2024 11:15:07 America/Detroit] [Info] Created symlink: $apppath/lib/docbook/xsl/html5/html5.page.xsl -> $user_dir/xsl/custom/66325c7b6d8ec.page.xsl
+[01/May/2024 11:15:07 America/Detroit] [Info] Created symlink: $apppath/lib/docbook/xsl/html5/html5.index.xsl -> $user_dir/xsl/custom/66325c7b6d8ec.index.xsl
+[01-May-2024 11:15:08 America/Detroit] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, js/jquery-3/*, fonts/*
+[01-May-2024 11:15:08 America/Detroit] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[01-May-2024 11:15:08 America/Detroit] Copy file '$user_dir/xsl/custom/assets/layout-678/64af0849856e2.png' to '$local_tmp/production-66325c747873c2.92204096/32142-Apple-html5/out/css/image/corporate-logo.png'
+[01-May-2024 11:15:08 America/Detroit] Copy file '$user_dir/xsl/custom/assets/layout-678/653be209688cd.png' to '$local_tmp/production-66325c747873c2.92204096/32142-Apple-html5/out/css/image/portal-logo.png'
+[01-May-2024 11:15:08 America/Detroit] Copy file '$user_dir/xsl/custom/assets/layout-678/65ddf0aa68c9a.js' to '$local_tmp/production-66325c747873c2.92204096/32142-Apple-html5/out/js/layout-custom-script.js'
+[01-May-2024 11:15:09 America/Detroit] Post build HTML5
+[01/May/2024 11:15:09 America/Detroit] [Info] Transformation: index-en.html -> toc-en.html [66325c7b6d8ec.toc.xsl]
+[01/May/2024 11:15:09 America/Detroit] [Info] Transformation: 32142-32150-test.html -> 32142-32150-test.html [66325c7b6d8ec.page.xsl]
+[01/May/2024 11:15:09 America/Detroit] [Info] Transformation: index-en.html -> index-en.html [66325c7b6d8ec.page.xsl]
+[01/May/2024 11:15:10 America/Detroit] [Info] Generating index page.
+[01/May/2024 11:15:10 America/Detroit] [Info] Transformation: index.manifest -> index.html [66325c7b6d8ec.index.xsl]
+[01/May/2024 11:15:10 America/Detroit] [Info] # Took 9.137276 seconds to render.

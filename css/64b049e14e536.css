@@ -1,0 +1,31 @@
+
+* a:focus {
+    outline: 1px solid purple; 
+    outline-offset: 2px;
+}
+
+.portal-header .portal-search .search-field {
+    color: purple;
+}
+
+.search-field:focus {
+    border: 1px solid purple;
+}
+
+.portal-single-publication a:focus {
+    outline-offset: 0px; 
+}
+
+.featured-content-label {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.7rem;
+}
+
+.purpleText {
+    color: purple;
+}
+
+.btn-default {
+    border-radius: 3px; 
+}
